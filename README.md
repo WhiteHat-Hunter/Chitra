@@ -38,19 +38,19 @@
 
 # Samples
 
-- Before
+<h2 align="center"> Before Image </h2>
 
 ![](sample/goku.png)
 
-- After
+<h2 align="center"> After Sketch </h2>
 
 ![](sample/goku-sketch.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
-<h2>Coded with Pure ❤️ of Siddhesh</h2>
+<h1>Coded with Pure ❤️ of Siddhesh</h1>
 
-<p style=italic>Thankyou For Downloading!</p>
+<h2 style=Bold>Thankyou For Downloading!</h2>
 
 --------------------------------------------------------------------------------------------------------------------
 
