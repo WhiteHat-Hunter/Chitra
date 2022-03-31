@@ -4,7 +4,7 @@
 - A Photo to Sketch Converter App using Python
 
 # Features ✨
-- Artifical Work
+- Artificial Work
 - 80% Accurate Sketch (Vary Detailing)
 - Runs Offline
 - Simple Coding
