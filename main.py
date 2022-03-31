@@ -1,9 +1,12 @@
+import os
 import cv2
 import pyfiglet
 from colorama import init
 from termcolor import colored 
 
 init()
+
+os.system("cls || clear")
 
 figlet1 = pyfiglet.figlet_format("CHITRA -", width=200)
 figlet2 = pyfiglet.figlet_format("PHOTO TO SKETCH CONVERTER", font="bubble", width=100)
