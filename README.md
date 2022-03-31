@@ -1,7 +1,7 @@
 ![](logo.png)
 
 <h1 style=bold>Chitra 🔰</h1>
-# A Photo to Sketch Converter App using Python
+- A Photo to Sketch Converter App using Python
 
 # Features ✨
 - Artifical Work
