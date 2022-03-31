@@ -1,7 +1,7 @@
 ![](logo.png)
 
 <h1 style=bold>Chitra 🔰</h1>
-- A Photo to Sketch Converter App using Python
+## A Photo to Sketch Converter App using Python
 
 # Features ✨
 - Artifical Work
@@ -21,7 +21,7 @@
 - A Picture for Sketching🖼️
 
 # Installation ⬇️
-- In Llinux git clone https://www.github.com/WhiteHat-Hunter/Chitra  OR  Download as zip in windows
+- In Linux git clone https://www.github.com/WhiteHat-Hunter/Chitra  OR  Download as zip in windows
 - cd folder_name
 - In CMD/Terminal Type:pip install -r modules.txt
 - chmod +x main.py (only for linux)
@@ -29,7 +29,7 @@
 # Usage 👨‍💻
 - python main.py  OR  python3 main.py
 
-#Very Imp 🔴
+# Very Imp 🔴
 - First, Check all modules installed or not
 - Give full path with image name & extension of photo where it is stored
 - While Save, give proper path and name with extension to save
@@ -50,15 +50,15 @@
 
 <h2>Coded with Pure ❤️ of Siddhesh</h2>
 
-<p style=italic>Thankyou For Downloading & Using!!</p>
+<p style=italic>Thankyou For Downloading!</p>
 
 --------------------------------------------------------------------------------------------------------------------
 
-# Contact Me
+# Contact Me 📞
 - Whatsapp: +919172814140
 - Instagram: www.instagram.com/ft.siddhesh
 - LinkedIn: www.linkedin.com/in/siddhesh-surve-785387231
 - Github: www.github.com/WhiteHat-Hunter
 
-## Copyright
-- GitHub : Mr.Siddhesh ©️
+# Copyright
+## GitHub : Mr.Siddhesh ©️
